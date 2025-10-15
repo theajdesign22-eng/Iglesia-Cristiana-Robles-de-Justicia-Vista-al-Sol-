@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Robles de Justicia Vista al Sol Venezuela</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #2e7d32;
+      color: white;
+      text-align: center;
+      padding: 1.5em 1em;
+    }
+    header img {
+      max-width: 120px;
+      border-radius: 50%;
+    }
+    nav {
+      background: #388e3c;
+      text-align: center;
+      padding: 0.5em;
+    }
+    nav a {
+      color: white;
+      margin: 0 1em;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2em;
+      max-width: 900px;
+      margin: auto;
+    }
+    footer {
+      background: #2e7d32;
+      color: white;
+      text-align: center;
+      padding: 1em;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="AQUÍ_VA_EL_LOGO.png" alt="Logotipo Robles de Justicia">
+    <h1>Robles de Justicia Vista al Sol Venezuela</h1>
+    <p>“Serán llamados robles de justicia, plantío del Señor para gloria suya” – Isaías 61:3</p>
+  </header>
+
+  <nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#nosotros">Quiénes Somos</a>
+    <a href="#servicios">Servicios</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <section id="inicio">
+    <h2>Bienvenidos</h2>
+    <p>Somos una comunidad cristiana comprometida con la fe, la esperanza y el servicio. Nuestra misión es expandir la palabra de DIOS, sembrando justicia, paz y amor en cada corazón.</p>
+  </section>
+
+  <section id="nosotros">
+    <h2>Quiénes Somos</h2>
+    <p>La Iglesia Robles de Justicia nace como un concilio de iglesias con el propósito de llevar la palabra de DIOS a cada rincon, promoviendo a nuestro señor Jesucristo como unico y suficiente salvador. Inspirados por Isaías 61:3, buscamos fortalecer raíces firmes en la Palabra y extender ramas de servicio a nuestra comunidad.</p>
+  </section>
+
+  <section id="servicios">
+    <h2>Servicios</h2>
+    <ul>
+      <li>Culto Dominical – 10:00 a.m.</li>
+      <li>Estudio Bíblico – Miércoles 6:30 p.m.</li>
+      <li>Oración Comunitaria – Viernes 7:00 p.m.</li>
+      <li>Escuela Dominical para niños y jóvenes</li>
+    </ul>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p><strong>Dirección:</strong> Sector Vista al Sol, Ciudad Guayana, Estado Bolívar, Venezuela</p>
+    <p><strong>Teléfono:</strong> +58 XXX-XXX-XXXX</p>
+    <p><strong>Email:</strong> contacto@roblesdejusticia.org.ve</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Robles de Justicia Vista al Sol Venezuela. Todos los derechos reservados.
+  </footer>
+
+</body>
+</html>
